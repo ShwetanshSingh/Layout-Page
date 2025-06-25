@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    scroll-behavior: smooth;
+    height: 100%;
+}
+body {
+    min-height: 100%;
+}
+
+.all-containers {
+    width: 70%;
+    margin: auto;
+}
+.navbar {
+    display: flex;
+    height: 10%;
+    justify-content: flex-end;
+}
+.navbar .logo {
+    margin-right: auto;
+    justify-content: flex-start;
+}
+.navbar div {
+    margin: 10px;
+}
