@@ -1,2 +1,2 @@
 # Layout-Page
-A simple to practice CSS
+A simple layout page
