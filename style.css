@@ -30,9 +30,16 @@ body {
 .navbar .logo {
     margin-right: auto;
     justify-content: flex-start;
+    font-size: 24px;
+    color: #F9FAF8;
 }
 .navbar div {
     margin: 20px;
+}
+
+button {
+    color: #E5E7EB;
+    background-color: #3882F6;
 }
 
 .hero {
@@ -56,4 +63,15 @@ div.info-grid {
 .blank-image {
     width: 100%;
     height: auto;
+}
+
+.hero div h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero div div {
+    font-size: 18px;
+    color: #E5E7EB;
 }
